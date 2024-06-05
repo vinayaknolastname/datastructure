@@ -6,7 +6,7 @@ func bubbleSort(array []int) {
 	fmt.Println("Bubble Sort ====>")
 	fmt.Println("Array before soring :", array)
 	_bubbleSort(array)
-	fmt.Println("Array after sorting ", array)
+	fmt.Println("Array after csorting ", array)
 }
 
 // In Bubble sort the last element will get sorted first
